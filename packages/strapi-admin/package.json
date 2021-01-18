@@ -125,5 +125,9 @@
     "npm": ">=6.0.0"
   },
   "license": "SEE LICENSE IN LICENSE",
-  "gitHead": "231263a3535658bab1e9492c6aaaed8692d62a53"
+  "gitHead": "231263a3535658bab1e9492c6aaaed8692d62a53",
+  "devDependencies": {
+    "@codesee/babel-plugin-instrument": "^0.7.0",
+    "@codesee/tracker": "^0.7.0"
+  }
 }
