@@ -22,7 +22,7 @@
     "strapi-plugin-graphql": "../packages/strapi-plugin-graphql",
     "strapi-plugin-documentation": "../packages/strapi-plugin-documentation",
     "strapi-connector-bookshelf": "../packages/strapi-connector-bookshelf",
-    "knex": "<0.20.0",
+    "knex": "<2.5.0",
     "sqlite3": "latest"
   },
   "author": {
